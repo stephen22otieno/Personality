@@ -1,0 +1,39 @@
+body {
+  color:blue;
+  background-color:pink;
+  text-align:center;
+  justify-content:center;
+  margin-left:20px;
+  margin-top:20px;
+  padding:30px;
+  text-decoration:none;
+  img:url"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9H8FoUnEToPldn-uplLCk5YB9TelVqRwCrXblUbUe0G_rKyorA"
+}
+
+
+h1 {
+  font-size:30px;
+  font-family:comic sans;
+  color:green;
+  text-align:center;
+  margin-top:5%;
+  border:2px;
+}
+
+#about{
+  text-align:center;
+}
+
+ul{
+  list-style-type:none;
+}
+li{
+   list-style-type:none;
+h2 {
+font-size:30px;
+font-family:comic sans;
+color:green;
+text-align:center;
+margin-top:5%;
+border:2px;
+}
