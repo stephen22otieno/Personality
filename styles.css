@@ -37,3 +37,9 @@ text-align:center;
 margin-top:5%;
 border:2px;
 }
+@media query(min-width =500px){
+  body {
+      background-color: black;
+      color: white;
+  }
+}
